@@ -13,8 +13,6 @@
 
 ## Side Project
 
-> 我自己的应用大多部署在我自建的服务器，serverless (微信公众号开发)以及阿里云的 OSS (纯前端)上。
-
 + [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov): 全国新型冠状病毒，肺炎疫情实时省市地图，单日 PV 最高48万
 + [shfshanyue/shici](https://github.com/shfshanyue/shici): 诗词小站，服务器容器运维、爬虫及前后端开发可参考我的博客，单日 PV 500 <https://shici.xiange.tech/>
 + [shfshanyue/wechat](https://github.com/shfshanyue/wechat): 个人公众号的微信开发，黑客增长实践，看文需扫码关注功能
