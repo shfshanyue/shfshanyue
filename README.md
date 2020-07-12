@@ -1,7 +1,7 @@
 # 山月的 GitHub
 
 
-### Package
+## Package
 
 + [@shanyue/promise-utils (npm)](https://github.com/shfshanyue/promise-utils): 一些有用的 promise 工具函数，如 map, filter, retry 与 sleep
 + [cls-session (npm)](https://github.com/shfshanyue/cls-session): Node 类似 CLS 的实现，并避免了 Promise 在 async_hooks 中内存泄漏问题
@@ -11,7 +11,7 @@
 + [shfshanyue/apollo-server-starter (graphql template)](https://github.com/shfshanyue/apollo-server-starter): 基于 apollo-server 的 graphql 后端脚手架
 
 
-### Side Project
+## Side Project
 
 > 我自己的应用大多部署在我自建的服务器，serverless (微信公众号开发)以及阿里云的 OSS (纯前端)上。
 
@@ -19,5 +19,6 @@
 + [shfshanyue/shici](https://github.com/shfshanyue/shici): 诗词小站，服务器容器运维、爬虫及前后端开发可参考我的博客，单日 PV 500 <https://shici.xiange.tech/>
 + [shfshanyue/wechat](https://github.com/shfshanyue/wechat): 个人公众号的微信开发，黑客增长实践，看文需扫码关注功能
 + [shfshanyue/wechat-bot](https://github.com/shfshanyue/wechat-bot): 个人微信机器人开发，社群运营、智能对话与提醒。自动通过好友，加群后欢迎语以及基金、疫情信息监控
-+ [shfshanyue/wechat-cron](https://github.com/shfshanyue/wechat): 个人公众号的自动上传素材脚本，使用 [we-api](https://github.com/shfshanyue/we-api) 作为 SDK
-+ [shfshanyue/reacht-rubic](https://github.com/shfshanyue/react-rubic): 使用 react 开发一个魔方
+
+
+[》更多信息](https://github.com/shfshanyue/blog)
