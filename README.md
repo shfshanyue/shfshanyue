@@ -3,7 +3,6 @@
 + [@shanyue/promise-utils (npm)](https://github.com/shfshanyue/promise-utils): 一些有用的 promise 工具函数，如 map, filter, retry 与 sleep
 + [cls-session (npm)](https://github.com/shfshanyue/cls-session): Node 类似 CLS 的实现，并避免了 Promise 在 async_hooks 中内存泄漏问题
 + [we-api (npm)](https://github.com/shfshanyue/we-api): 关于微信公众号 API 封装的 SDK，支持 TS与更好用的 SDK
-+ [shfshanyue/whoami (docker)](https://github.com/shfshanyue/whoami): Tiny node.js webserver that prints os information and HTTP request to output
 + [shfshanyue/ansible-op (ansible role)](https://github.com/shfshanyue/ansible-op): 个人服务器运维脚本
 + [shfshanyue/apollo-server-starter (graphql template)](https://github.com/shfshanyue/apollo-server-starter): 基于 apollo-server 的 graphql 后端脚手架
 
