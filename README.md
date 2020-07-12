@@ -1,6 +1,3 @@
-# 山月的 GitHub
-
-
 ## Package
 
 + [@shanyue/promise-utils (npm)](https://github.com/shfshanyue/promise-utils): 一些有用的 promise 工具函数，如 map, filter, retry 与 sleep
@@ -19,4 +16,4 @@
 + [shfshanyue/wechat-bot](https://github.com/shfshanyue/wechat-bot): 个人微信机器人开发，社群运营、智能对话与提醒。自动通过好友，加群后欢迎语以及基金、疫情信息监控
 
 
-[》更多信息](https://github.com/shfshanyue/blog)
+[》更多内容](https://github.com/shfshanyue/blog)
