@@ -8,8 +8,8 @@
 
 ## Side Project
 
-+ [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov): 全国新型冠状病毒，肺炎疫情实时省市地图，单日 PV 最高48万
-+ [shfshanyue/shici](https://github.com/shfshanyue/shici): 诗词小站，服务器容器运维、爬虫及前后端开发可参考我的博客，单日 PV 500 <https://shici.xiange.tech/>
++ [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov): 全国新型冠状病毒，肺炎疫情实时省市地图，单日 UV 最高48万
++ [shfshanyue/shici](https://github.com/shfshanyue/shici): 诗词小站，服务器容器运维、爬虫及前后端开发可参考我的博客，单日 UV 500 <https://shici.xiange.tech/>
 + [shfshanyue/wechat](https://github.com/shfshanyue/wechat): 个人公众号的微信开发，黑客增长实践，看文需扫码关注功能
 + [shfshanyue/wechat-bot](https://github.com/shfshanyue/wechat-bot): 个人微信机器人开发，社群运营、智能对话与提醒。自动通过好友，加群后欢迎语以及基金、疫情信息监控
 
