@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 min           █████████████░░░░░░░░░░░░   51.56 %
-TypeScript   1 min           ████████████░░░░░░░░░░░░░   48.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
