@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       39 mins         █████████████░░░░░░░░░░░░   51.82 %
-Markdown     31 mins         ██████████▒░░░░░░░░░░░░░░   41.33 %
-Astro        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
